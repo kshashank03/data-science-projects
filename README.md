@@ -6,3 +6,6 @@ Given that Data Science is a multi-disciplinary profession, I'll be posting not 
 
 ## data_tools
 A folder for any code I write that accomplishes a small task that I might need to refer to in the future like geocoding and using python to add functionality to tools like Alteryx or Tableau
+
+## Regression_Models
+A folder for any projects I do that rely entirely or primarily on regression models. 
