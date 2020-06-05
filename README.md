@@ -9,3 +9,6 @@ A folder for any code I write that accomplishes a small task that I might need t
 
 ## Regression_Models
 A folder for any projects I do that rely entirely or primarily on regression models. 
+
+## Classification Models
+A folder for any projects I do that rely entirely or primarily on regression models. 
