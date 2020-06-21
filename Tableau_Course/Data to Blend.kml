@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Data_to_Blend" id="Data_to_Blend">
+	<SimpleField name="Stadium Open Date" type="string"></SimpleField>
+	<SimpleField name="Stadium Capacity" type="string"></SimpleField>
+</Schema>
+<Folder><name>Data_to_Blend</name>
+  <Placemark>
+	<name>Liverpool</name>
+	<description>Anfield</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1884</SimpleData>
+		<SimpleData name="Stadium Capacity">53394</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.96083333333333,53.4308333333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stoke City</name>
+	<description>bet365 Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1997</SimpleData>
+		<SimpleData name="Stadium Capacity">27740</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.17555555555556,52.9883333333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blackpool</name>
+	<description>Bloomfield Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1899</SimpleData>
+		<SimpleData name="Stadium Capacity">16220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.04805555555556,53.8047222222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oldham Athletic</name>
+	<description>Boundary Park</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1904</SimpleData>
+		<SimpleData name="Stadium Capacity">13309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.12861111111111,53.5552777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sheffield United</name>
+	<description>Bramall Lane</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1855</SimpleData>
+		<SimpleData name="Stadium Capacity">32125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.47083333333333,53.3702777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cardiff City</name>
+	<description>Cardiff City Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2009</SimpleData>
+		<SimpleData name="Stadium Capacity">33280</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.20305555555556,51.4727777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Norwich City</name>
+	<description>Carrow Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1935</SimpleData>
+		<SimpleData name="Stadium Capacity">27359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.30916666666667,52.6222222222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nottingham Forest</name>
+	<description>City Ground</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1898</SimpleData>
+		<SimpleData name="Stadium Capacity">30602</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.13277777777778,52.94,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manchester City</name>
+	<description>City of Manchester Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2003</SimpleData>
+		<SimpleData name="Stadium Capacity">55017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.20027777777778,53.4830555555556,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Swindon Town</name>
+	<description>County Ground</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1895</SimpleData>
+		<SimpleData name="Stadium Capacity">14700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.77055555555556,51.5644444444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fulham</name>
+	<description>Craven Cottage</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1896</SimpleData>
+		<SimpleData name="Stadium Capacity">25700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.221666666666667,51.475,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bournemouth</name>
+	<description>Dean Court</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1910</SimpleData>
+		<SimpleData name="Stadium Capacity">11364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.83833333333333,50.7352777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wigan Athletic</name>
+	<description>DW Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1999</SimpleData>
+		<SimpleData name="Stadium Capacity">25138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65416666666667,53.5475,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leeds United</name>
+	<description>Elland Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1897</SimpleData>
+		<SimpleData name="Stadium Capacity">39460</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.57222222222222,53.7777777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arsenal</name>
+	<description>Emirates Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2006</SimpleData>
+		<SimpleData name="Stadium Capacity">60704</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.108611111111111,51.555,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blackburn Rovers</name>
+	<description>Ewood Park</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1890</SimpleData>
+		<SimpleData name="Stadium Capacity">31367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.48916666666667,53.7286111111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brighton &amp; Hove Albion</name>
+	<description>Falmer Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2011</SimpleData>
+		<SimpleData name="Stadium Capacity">30750</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.083277777777778,50.8618222222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Portsmouth</name>
+	<description>Fratton Park</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1898</SimpleData>
+		<SimpleData name="Stadium Capacity">20978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.06388888888889,50.7963888888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Everton</name>
+	<description>Goodison Park</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1892</SimpleData>
+		<SimpleData name="Stadium Capacity">39414</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.96638888888889,53.4388888888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Bromwich Albion</name>
+	<description>The Hawthorns</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1900</SimpleData>
+		<SimpleData name="Stadium Capacity">26445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.96388888888889,52.5091666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sheffield Wednesday</name>
+	<description>Hillsborough Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1899</SimpleData>
+		<SimpleData name="Stadium Capacity">39812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.50055555555556,53.4113888888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hull City</name>
+	<description>KCOM Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2002</SimpleData>
+		<SimpleData name="Stadium Capacity">25400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3676462,53.7462568,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leicester City</name>
+	<description>King Power Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2002</SimpleData>
+		<SimpleData name="Stadium Capacity">32261</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.14222222222222,52.6202777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huddersfield Town</name>
+	<description>Kirklees Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1994</SimpleData>
+		<SimpleData name="Stadium Capacity">24500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.76833333333333,53.6541666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Swansea City</name>
+	<description>Liberty Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2005</SimpleData>
+		<SimpleData name="Stadium Capacity">20937</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.93472222222222,51.6427777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Queens Park Rangers</name>
+	<description>Loftus Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1904</SimpleData>
+		<SimpleData name="Stadium Capacity">18439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.232222222222222,51.5091666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fulham</name>
+	<description>Loftus Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1904</SimpleData>
+		<SimpleData name="Stadium Capacity">18439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.232222222222222,51.5091666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Ham United</name>
+	<description>London Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2016</SimpleData>
+		<SimpleData name="Stadium Capacity">60000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.016388888888889,51.5386111111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reading</name>
+	<description>Madejski Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1998</SimpleData>
+		<SimpleData name="Stadium Capacity">24161</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.982777777777778,51.4222222222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wolverhampton Wanderers</name>
+	<description>Molineux Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1889</SimpleData>
+		<SimpleData name="Stadium Capacity">32050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.13027777777778,52.5902777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barnsley</name>
+	<description>Oakwell</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1887</SimpleData>
+		<SimpleData name="Stadium Capacity">23009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.4675,53.5522222222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manchester United</name>
+	<description>Old Trafford</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1910</SimpleData>
+		<SimpleData name="Stadium Capacity">75643</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.29138888888889,53.4630555555556,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ipswich Town</name>
+	<description>Portman Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1884</SimpleData>
+		<SimpleData name="Stadium Capacity">30311</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.14472222222222,52.055,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Derby County</name>
+	<description>Pride Park Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1997</SimpleData>
+		<SimpleData name="Stadium Capacity">33597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.44722222222222,52.915,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Middlesbrough</name>
+	<description>Riverside Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1995</SimpleData>
+		<SimpleData name="Stadium Capacity">33746</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.21694444444444,54.5783333333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Birmingham City</name>
+	<description>St Andrew's</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1906</SimpleData>
+		<SimpleData name="Stadium Capacity">30079</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.8680607,52.4757215,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newcastle United</name>
+	<description>St James' Park</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1880</SimpleData>
+		<SimpleData name="Stadium Capacity">52305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.62166666666667,54.9755555555556,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southampton</name>
+	<description>St Mary's Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2001</SimpleData>
+		<SimpleData name="Stadium Capacity">32384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.39111111111111,50.9058333333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crystal Palace</name>
+	<description>Selhurst Park</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1924</SimpleData>
+		<SimpleData name="Stadium Capacity">25486</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.085555555555556,51.3983333333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AFC Wimbledon</name>
+	<description>Selhurst Park</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1924</SimpleData>
+		<SimpleData name="Stadium Capacity">25486</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.085555555555556,51.3983333333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunderland</name>
+	<description>Stadium of Light</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1997</SimpleData>
+		<SimpleData name="Stadium Capacity">48707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.38833333333333,54.9144444444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chelsea</name>
+	<description>Stamford Bridge</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1877</SimpleData>
+		<SimpleData name="Stadium Capacity">40834</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.191111111111111,51.4816666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tottenham Hotspur</name>
+	<description>Tottenham Hotspur Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2019</SimpleData>
+		<SimpleData name="Stadium Capacity">62062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.066388888888889,51.6047222222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burnley</name>
+	<description>Turf Moor</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1883</SimpleData>
+		<SimpleData name="Stadium Capacity">21944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.23027777777778,53.7891666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bolton Wanderers</name>
+	<description>University of Bolton Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1997</SimpleData>
+		<SimpleData name="Stadium Capacity">28723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.5391636,53.5813723,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charlton Athletic</name>
+	<description>The Valley</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1919</SimpleData>
+		<SimpleData name="Stadium Capacity">27111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.036388888888889,51.4863888888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bradford City</name>
+	<description>Valley Parade</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1886</SimpleData>
+		<SimpleData name="Stadium Capacity">25136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.75888888888889,53.8041666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Watford</name>
+	<description>Vicarage Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1922</SimpleData>
+		<SimpleData name="Stadium Capacity">22200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.401666666666667,51.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aston Villa</name>
+	<description>Villa Park</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">1897</SimpleData>
+		<SimpleData name="Stadium Capacity">42095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.88472222222222,52.5091666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tottenham Hotspur</name>
+	<description>Wembley Stadium</description>
+	<ExtendedData><SchemaData schemaUrl="#Data_to_Blend">
+		<SimpleData name="Stadium Open Date">2007</SimpleData>
+		<SimpleData name="Stadium Capacity">90000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.2817075,51.5560208,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
