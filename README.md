@@ -1,4 +1,4 @@
-**Most Recent Project:** 
+### Most Recent Project:
 #### Using Neural Networks to Differentiate Between Cats, Dogs, and Rabbits
 https://github.com/kshashank03/data-science-projects/tree/master/neural_networks/dog_cat_rabbit_classifier
 
