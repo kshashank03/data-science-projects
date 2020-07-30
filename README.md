@@ -1,3 +1,7 @@
+**Most Recent Project:** 
+#### Using Neural Networks to Differentiate Between Cats, Dogs, and Rabbits
+https://github.com/kshashank03/data-science-projects/tree/master/neural_networks/dog_cat_rabbit_classifier
+
 # Data Science Portfolio
 
 Welcome to my GitHub Repository. This is where you can follow me on my journey to become a Data Scientist. 
